@@ -16,8 +16,11 @@ Simple library to merger several jupyter notebook into one
 
 ### Installing
 
-install packages :
-	pip install git+git://github.com/aiodia/junomerger.git
+Can be installed using [pip](https://pypi.org/project/pip/):
+
+```sh
+pip install git+git://github.com/aiodia/junomerger.git
+```
 
 ### Usage
 
