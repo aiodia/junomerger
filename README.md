@@ -1,6 +1,6 @@
 # Jupyter Notebook Merger
 
-Simple library to merger several jupyter notebook into one
+Simple library to merge several jupyter notebook into one.
 
 
 ## Requirements
@@ -40,12 +40,12 @@ junomerger.print_hidden_tag('my_unique_keyword')
 notebook_a = junomerger.convert_ipynb2html('notebook_a.ipynb')
 notebook_b = junomerger.convert_ipynb2html('notebook_b.ipynb')
 ```
-- show particular output based on unique keyword has been created
+- show particular output based on unique keyword that has been created
 ```sh
 notebook_a.show_jupyter_output(keyword='my_unique_keyword')
 ```
 
-see this [articles]() and examples folder for details.
+see this [articles](https://medium.com/@yo__di/jupyter-notebook-merger-d687f80f2e49) and examples folder for details.
 
 ## License
 
